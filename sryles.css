@@ -1,0 +1,168 @@
+*{
+    font-family: 'Rubik Bubbles','poppins', sans-serif;
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+.link-header{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 50px;
+    color:brown;
+    cursor:pointer;
+    margin-right:5%;
+    margin-left:5%;
+    
+}
+    
+
+header{
+    margin:78px 0px 144px 76px;
+    
+}
+
+
+section{
+    display:inline-block;
+    margin-left:200px;
+}
+
+.logo-image{
+    width: 568px;
+    height: 500px;
+    margin-left: 125px;
+    display:inline-block;
+    
+}
+
+
+.button-header{
+    background: rgb(241, 31, 66) ;
+    border-radius:  50px;
+    width:130px;
+    height: 41px;
+    border:none;
+    font-weight:600;
+    font-size: 24 px;
+    line-height:29px;
+    color:brown;
+    
+}
+
+
+
+h1{
+font-weight: 900;
+font-size: 100px;
+line-height: 71px;
+color:brown 
+
+}
+
+p {
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 71px;
+    color:brown;
+    margin-top: 53px;
+    margin-bottom: 55px;
+  
+
+    }  
+
+
+
+.button{
+    background:pink ;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 50px;
+    color:brown;
+    cursor:pointer;
+    border-radius:30px ;
+    border: none;
+    width: 239px;
+}
+
+.fale-conosco {
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 10px;
+    gap: 20px;
+    position: fixed;
+    left: -350px;
+    transition: left 1s linear;
+    z-index: 4;
+}
+
+div{
+    display:inline-block;
+    margin-left:50px;   
+    font-weight: 200px;
+        font-size: 50px;
+        line-height: 71px;
+        color:brown 
+       
+}
+
+h2{
+
+        font-weight: 150px;
+        font-size: 50px;
+        line-height: 71px;
+        color:brown 
+       
+
+}
+
+.logo-zap{
+    width:89px;
+    height:89px;
+
+}
+
+.voltar{
+    font-family:poppins;
+    background:pink ;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 50px;
+    color:brown;
+    cursor:pointer;
+    border-radius:30px ;
+    border: none;
+    width: 239px;
+    
+}
+
+input[type=text] {
+    background-color: white;
+    width: 1000px;
+    height: 80px;
+    font-size: 25%;
+    
+}
+.Enviar{
+    font-family:poppins;
+    background:pink ;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 50px;
+    color:brown;
+    cursor:pointer;
+    border-radius:30px ;
+    border: none;
+    width: 239px;}
+
+form{
+        font-weight: 150px;
+        font-size: 50px;
+        line-height: 71px;
+        color:brown 
+}
